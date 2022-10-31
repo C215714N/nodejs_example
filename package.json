@@ -1,0 +1,27 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "aplicacion de prueba con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c215714n/nodejs_example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "no-browser"
+  ],
+  "author": "Cristian Racedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c215714n/nodejs_example/issues"
+  },
+  "homepage": "https://github.com/c215714n/nodejs_example#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
